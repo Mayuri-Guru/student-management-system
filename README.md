@@ -73,3 +73,9 @@ Week: 6 of 6
 I am learning Git and GitHub as part of my Python internship.
 
 This is my first practical Git exercise.
+
+## Branch Practice
+
+This section was added while working on my feature-practice branch.
+
+I am learning Git branching and version control.
