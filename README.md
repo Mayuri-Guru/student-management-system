@@ -67,3 +67,9 @@ Student records are saved in `project_files/students.json`. CSV exports are writ
 [Your Name]  
 Internship Domain: Python Programming  
 Week: 6 of 6
+
+## Git Practice
+
+I am learning Git and GitHub as part of my Python internship.
+
+This is my first practical Git exercise.
