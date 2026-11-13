@@ -264,3 +264,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Git Merge Conflict Practice
+
+message = "Hello from conflict-practice branch"
+
+print(message)
