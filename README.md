@@ -64,7 +64,7 @@ Student records are saved in `project_files/students.json`. CSV exports are writ
 - Add input validation for email format
 
 ## Author
-[Your Name]  
+Mayuri M G 
 Internship Domain: Python Programming  
 Week: 6 of 6
 
@@ -79,3 +79,16 @@ This is my first practical Git exercise.
 This section was added while working on my feature-practice branch.
 
 I am learning Git branching and version control.
+## Project Screenshots
+
+The screenshots folder contains the execution outputs of the Student Management System.
+
+- Main menu
+- Adding student records
+- Viewing student records
+- Searching student records
+- Updating student information
+- Deleting student records
+- Exporting student records to CSV
+
+These screenshots demonstrate the working functionality of the application.
