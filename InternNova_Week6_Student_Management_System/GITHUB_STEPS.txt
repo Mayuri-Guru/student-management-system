@@ -1,0 +1,35 @@
+INTERNOVA WEEK 6 – TASK 1: GIT & GITHUB EVIDENCE
+
+1. Install Git from https://git-scm.com/downloads
+2. Create/sign in to a GitHub account at https://github.com
+3. Open Command Prompt or VS Code terminal inside this project folder.
+4. Run the following commands (replace the name/email with your GitHub details):
+
+git config --global user.name "Your Name"
+git config --global user.email "your-email@example.com"
+git init
+git status
+git add .
+git status
+git commit -m "Initial commit - Student Management System"
+git branch -M main
+git remote add origin https://github.com/YOUR-USERNAME/student-management-system.git
+git push -u origin main
+
+Create an empty GitHub repository named student-management-system first.
+Do not tick README, .gitignore or license when creating it, because this folder already contains files.
+
+For later updates:
+git add .
+git commit -m "Update student management system"
+git push
+
+SCREENSHOTS TO CAPTURE YOURSELF:
+A. Git version / configuration (optional)
+B. `git status` showing project files
+C. `git commit` success in terminal
+D. GitHub repository page showing uploaded files
+E. GitHub commit history
+
+Never share your GitHub password or personal access token. If GitHub asks you to authenticate,
+use its official sign-in flow.

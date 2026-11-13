@@ -1,0 +1,27 @@
+ILLUSTRATIVE SAMPLE RUN (your actual IDs and data may differ)
+
+========== STUDENT MANAGEMENT SYSTEM ==========
+1. Add student
+2. View all students
+3. Search student
+4. Update student
+5. Delete student
+6. Export records to CSV
+7. Exit
+Enter your choice (1-7): 1
+Enter student ID: S101
+Enter name: Ananya
+Enter age: 20
+Enter course: AIML
+Enter email: ananya@example.com
+Student added successfully.
+
+========== STUDENT MANAGEMENT SYSTEM ==========
+Enter your choice (1-7): 2
+
+--- STUDENT RECORDS ---
+ID: S101 | Name: Ananya | Age: 20 | Course: AIML | Email: ananya@example.com
+
+========== STUDENT MANAGEMENT SYSTEM ==========
+Enter your choice (1-7): 7
+Thank you for using Student Management System.
